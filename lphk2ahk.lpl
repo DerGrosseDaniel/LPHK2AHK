@@ -1,0 +1,671 @@
+{
+  "buttons": [
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "TAP f22"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f13\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f14\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f15\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f16\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS shift\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f17\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS shift\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f18\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f19\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS shift\nPRESS f22\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f20\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ],
+    [
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS alt\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS alt\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS shift\nPRESS ctrl\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          85,
+          0,
+          0
+        ],
+        "text": "PRESS ctrl\nPRESS alt\nPRESS f21\nRELEASE_ALL"
+      },
+      {
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "text": ""
+      }
+    ]
+  ],
+  "version": "0.1.1"
+}
